@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 50px;
+  width: 60%;
+  background:#dac63a ;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 15px;
+  width: 65%;
+  background:#EBFA00 ;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.patty {
+  height: 35px;
+  width: 65%;
+  background: #74560c;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+
+.tomato {
+  height: 10px;
+  width: 50%;
+  background-color: #FA2D00;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.turkeybacon {
+  height: 10px;
+  width: 50%;
+  background-color: #D18A05;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+
+
+.meatball {
+  height: 60px;
+  width: 80px;
+  background: #AD7A1B;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+
+.pickle {
+  height: 10px;
+  width: 50%;
+  background: #3ac67d;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 55%;
+  background-color: #E2AFF4;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 45px;
+  width: 60%;
+  background:#dac63a ;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 35px;
+  width: 80%;
+  background:#0d0e0c;
+  border-radius: 20px 20px 200px 200px;
+}
